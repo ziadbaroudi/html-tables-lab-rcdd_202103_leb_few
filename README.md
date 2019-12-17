@@ -101,7 +101,7 @@ This first row is almost always the only place where we use the `th` tag.
 
 In the second row, we can start putting in our data. Here, we want to use the
 _table data_ tag, `<td>` instead of using the _table header_ tag. The `<td>` tag
-representes one table cell. So, for our party table, we can add in some names,
+represents one table cell. So, for our party table, we can add in some names,
 phone numbers and items for guests to bring. An example row would look like the
 following:
 
@@ -150,7 +150,7 @@ of content expands to fit the width of the content.
 
 ### Reinforce Our Understanding Of HTML Tables Through Creation
 
-Okay, now its time to put what we've learned to the test. For this challenge,
+Okay, now it's time to put what we've learned to the test. For this challenge,
 your task is to recreate a table using the following data:
 
 ![cities by population](https://s3.amazonaws.com/ironboard-learn/us_cities_by_population.png)
